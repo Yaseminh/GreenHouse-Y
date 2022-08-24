@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/f0d32286-6614-403a-ac56-2c618e2a47d8/microsoft.web/sites/subscriptions/f0d32286-6614-403a-ac56-2c618e2a47d8/resourceGroups/P-Green-house/providers/Microsoft.Web/sites/P-Green-house",
+    "appService.deploySubpath": "."
+}
