@@ -5,7 +5,7 @@ export const Team = (props) => {
         <div className='col-md-8 col-md-offset-2 section-title'>
           <h2>The Consortium</h2>
           <p>
-            There are most test company in this project in around the world.
+            There are most test in company in this project in around the world.
           </p>
         </div>
         <div id='row'>
